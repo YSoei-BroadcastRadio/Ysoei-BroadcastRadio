@@ -1,4 +1,4 @@
-## Hi there 👋
+## どうも、こんにちは!! 🎙
 
 Hi! We are <b>Yokohama-Soei Broadcasting club!</b><br>
 We provide information that is deeply connected to the local area and everyday life!<br>
