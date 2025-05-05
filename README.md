@@ -9,7 +9,7 @@ Please check out our program!!<br>
 ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱟᱞᱮᱭᱟᱜ ᱯᱨᱚᱜᱽᱨᱟᱢ ᱧᱮᱞ ᱢᱮ!!<br>
 <br>
 おはこんばんちは! Y.SBC 横浜創英放送部です!<br>
-皆さんに寄り添った情報を発信してゆきます!<br>
+皆さんに寄り添った情報を発信していきます!<br>
 ぜひごゆっくりご覧ください!!<br>
 <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,htmx,raspberrypi,arduino,)](https://skillicons.dev)
